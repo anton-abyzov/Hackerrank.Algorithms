@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareTheTriplets", "CompareTheTriplets\CompareTheTriplets.csproj", "{0A1E4C5E-CCBA-4B06-B4B1-E9EB4C53BEC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmasSupercomputer", "EmasSupercomputer\EmasSupercomputer.csproj", "{8A624D22-F748-4672-AEEC-7616519AFA29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeryBigSum", "VeryBigSum\VeryBigSum.csproj", "{86ABF667-0CB1-40AD-A052-EB620075C93C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0A1E4C5E-CCBA-4B06-B4B1-E9EB4C53BEC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A1E4C5E-CCBA-4B06-B4B1-E9EB4C53BEC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A1E4C5E-CCBA-4B06-B4B1-E9EB4C53BEC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A624D22-F748-4672-AEEC-7616519AFA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A624D22-F748-4672-AEEC-7616519AFA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A624D22-F748-4672-AEEC-7616519AFA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A624D22-F748-4672-AEEC-7616519AFA29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86ABF667-0CB1-40AD-A052-EB620075C93C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86ABF667-0CB1-40AD-A052-EB620075C93C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86ABF667-0CB1-40AD-A052-EB620075C93C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86ABF667-0CB1-40AD-A052-EB620075C93C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
