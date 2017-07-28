@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HurdleRace", "HurdleRace\Hu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatsAndMouse", "CatsAndMouse\CatsAndMouse.csproj", "{61010176-6639-4240-A5C4-A5AB4B749CCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakingRecords", "BreakingRecords\BreakingRecords.csproj", "{F7B542C8-4FA0-4EF5-8819-EF202E2B075A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{61010176-6639-4240-A5C4-A5AB4B749CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61010176-6639-4240-A5C4-A5AB4B749CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61010176-6639-4240-A5C4-A5AB4B749CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B542C8-4FA0-4EF5-8819-EF202E2B075A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B542C8-4FA0-4EF5-8819-EF202E2B075A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B542C8-4FA0-4EF5-8819-EF202E2B075A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B542C8-4FA0-4EF5-8819-EF202E2B075A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
