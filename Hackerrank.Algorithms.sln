@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeryBigSum", "VeryBigSum\Ve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{573226B7-D774-4F19-9262-7B3AA65DEB9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtopianTree", "UtopianTree\UtopianTree.csproj", "{220D1FCA-F1DD-4365-9F8E-164C0E41517E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{573226B7-D774-4F19-9262-7B3AA65DEB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{573226B7-D774-4F19-9262-7B3AA65DEB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{573226B7-D774-4F19-9262-7B3AA65DEB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{220D1FCA-F1DD-4365-9F8E-164C0E41517E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220D1FCA-F1DD-4365-9F8E-164C0E41517E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220D1FCA-F1DD-4365-9F8E-164C0E41517E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220D1FCA-F1DD-4365-9F8E-164C0E41517E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
