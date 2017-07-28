@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "Diago
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtopianTree", "UtopianTree\UtopianTree.csproj", "{220D1FCA-F1DD-4365-9F8E-164C0E41517E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HurdleRace", "HurdleRace\HurdleRace.csproj", "{707673BA-90FC-4973-B724-EC28351FE567}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{220D1FCA-F1DD-4365-9F8E-164C0E41517E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{220D1FCA-F1DD-4365-9F8E-164C0E41517E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{220D1FCA-F1DD-4365-9F8E-164C0E41517E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{707673BA-90FC-4973-B724-EC28351FE567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707673BA-90FC-4973-B724-EC28351FE567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707673BA-90FC-4973-B724-EC28351FE567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707673BA-90FC-4973-B724-EC28351FE567}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
