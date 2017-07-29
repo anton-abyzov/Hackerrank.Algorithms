@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualizeArray", "EqualizeAr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCreamParlor", "IceCreamParlor\IceCreamParlor.csproj", "{9BD8EE5D-BAE0-4D77-BD8C-39A4DFECF5A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicsShop", "ElectronicsShop\ElectronicsShop.csproj", "{BC57DDA6-C599-438C-8A62-D6F1836D6C00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{9BD8EE5D-BAE0-4D77-BD8C-39A4DFECF5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BD8EE5D-BAE0-4D77-BD8C-39A4DFECF5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BD8EE5D-BAE0-4D77-BD8C-39A4DFECF5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC57DDA6-C599-438C-8A62-D6F1836D6C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC57DDA6-C599-438C-8A62-D6F1836D6C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC57DDA6-C599-438C-8A62-D6F1836D6C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC57DDA6-C599-438C-8A62-D6F1836D6C00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
