@@ -1,41 +1,43 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.9
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareTheTriplets", "CompareTheTriplets\CompareTheTriplets.csproj", "{0A1E4C5E-CCBA-4B06-B4B1-E9EB4C53BEC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompareTheTriplets", "CompareTheTriplets\CompareTheTriplets.csproj", "{0A1E4C5E-CCBA-4B06-B4B1-E9EB4C53BEC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmasSupercomputer", "EmasSupercomputer\EmasSupercomputer.csproj", "{8A624D22-F748-4672-AEEC-7616519AFA29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmasSupercomputer", "EmasSupercomputer\EmasSupercomputer.csproj", "{8A624D22-F748-4672-AEEC-7616519AFA29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeryBigSum", "VeryBigSum\VeryBigSum.csproj", "{86ABF667-0CB1-40AD-A052-EB620075C93C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VeryBigSum", "VeryBigSum\VeryBigSum.csproj", "{86ABF667-0CB1-40AD-A052-EB620075C93C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{573226B7-D774-4F19-9262-7B3AA65DEB9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{573226B7-D774-4F19-9262-7B3AA65DEB9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtopianTree", "UtopianTree\UtopianTree.csproj", "{220D1FCA-F1DD-4365-9F8E-164C0E41517E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UtopianTree", "UtopianTree\UtopianTree.csproj", "{220D1FCA-F1DD-4365-9F8E-164C0E41517E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HurdleRace", "HurdleRace\HurdleRace.csproj", "{707673BA-90FC-4973-B724-EC28351FE567}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HurdleRace", "HurdleRace\HurdleRace.csproj", "{707673BA-90FC-4973-B724-EC28351FE567}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatsAndMouse", "CatsAndMouse\CatsAndMouse.csproj", "{61010176-6639-4240-A5C4-A5AB4B749CCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatsAndMouse", "CatsAndMouse\CatsAndMouse.csproj", "{61010176-6639-4240-A5C4-A5AB4B749CCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakingRecords", "BreakingRecords\BreakingRecords.csproj", "{F7B542C8-4FA0-4EF5-8819-EF202E2B075A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BreakingRecords", "BreakingRecords\BreakingRecords.csproj", "{F7B542C8-4FA0-4EF5-8819-EF202E2B075A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimaxSum", "MinimaxSum\MinimaxSum.csproj", "{D64CABB0-3BA3-4380-9E0F-CEE0AB5C1FCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimaxSum", "MinimaxSum\MinimaxSum.csproj", "{D64CABB0-3BA3-4380-9E0F-CEE0AB5C1FCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamelCase", "CamelCase\CamelCase.csproj", "{E5462AF3-CFCF-4AE8-8812-D20F3F24F5DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CamelCase", "CamelCase\CamelCase.csproj", "{E5462AF3-CFCF-4AE8-8812-D20F3F24F5DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SockMerchant", "SockMerchant\SockMerchant.csproj", "{FBA1CC81-0B08-4E78-B639-70A14F0CE594}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SockMerchant", "SockMerchant\SockMerchant.csproj", "{FBA1CC81-0B08-4E78-B639-70A14F0CE594}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleSumPairs", "DivisibleSumPairs\DivisibleSumPairs.csproj", "{2C4CC22F-DDC9-4FCE-BC06-27B1F9D68249}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisibleSumPairs", "DivisibleSumPairs\DivisibleSumPairs.csproj", "{2C4CC22F-DDC9-4FCE-BC06-27B1F9D68249}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigratoryBirds", "MigratoryBirds\MigratoryBirds.csproj", "{745BB1B4-B5C7-4CA2-BB45-BF8EA4C95EC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MigratoryBirds", "MigratoryBirds\MigratoryBirds.csproj", "{745BB1B4-B5C7-4CA2-BB45-BF8EA4C95EC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonAppetit", "BonAppetit\BonAppetit.csproj", "{6EB6026D-2FC6-4950-8D0B-2AB1C1381967}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BonAppetit", "BonAppetit\BonAppetit.csproj", "{6EB6026D-2FC6-4950-8D0B-2AB1C1381967}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualizeArray", "EqualizeArray\EqualizeArray.csproj", "{A75CB45E-F86E-452F-AED7-28C709492A6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EqualizeArray", "EqualizeArray\EqualizeArray.csproj", "{A75CB45E-F86E-452F-AED7-28C709492A6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCreamParlor", "IceCreamParlor\IceCreamParlor.csproj", "{9BD8EE5D-BAE0-4D77-BD8C-39A4DFECF5A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IceCreamParlor", "IceCreamParlor\IceCreamParlor.csproj", "{9BD8EE5D-BAE0-4D77-BD8C-39A4DFECF5A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicsShop", "ElectronicsShop\ElectronicsShop.csproj", "{BC57DDA6-C599-438C-8A62-D6F1836D6C00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElectronicsShop", "ElectronicsShop\ElectronicsShop.csproj", "{BC57DDA6-C599-438C-8A62-D6F1836D6C00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigSorting", "BigSorting\BigSorting.csproj", "{01256ED8-E32B-4A8C-8633-971CFAA985C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{BC57DDA6-C599-438C-8A62-D6F1836D6C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC57DDA6-C599-438C-8A62-D6F1836D6C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC57DDA6-C599-438C-8A62-D6F1836D6C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01256ED8-E32B-4A8C-8633-971CFAA985C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01256ED8-E32B-4A8C-8633-971CFAA985C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01256ED8-E32B-4A8C-8633-971CFAA985C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01256ED8-E32B-4A8C-8633-971CFAA985C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
