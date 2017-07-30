@@ -5,18 +5,19 @@ using System.Linq;
 class Solution
 {
 
-    static long getWays(long money, long[] costs)
+    static long getWays(long money, long[] coins)
     {
-        var changeArray = new int[money];
+        var changeArray = new long[money + 1];
         changeArray[0] = 1;
-        for (int cost = 0; cost < costs.Length; cost++)
+        foreach (var coin in coins)
         {
-            for (var i = 1; i < money; i++)
+            for (var amount = 1; amount <= money; amount++)
             {
-                //changeArray[i] = changeArray[i - 1] + 
-                }
+                if (amount >= coin)
+                    changeArray[amount] +=  changeArray[amount - coin];
+            }
         }
-
+        return changeArray[money];
     }
 
     static void Main(String[] args)
@@ -28,6 +29,6 @@ class Solution
         long[] c = Array.ConvertAll(c_temp, Int64.Parse);
         // Print the number of ways of making change for 'n' units using coins having the values given by 'c'
         long ways = getWays(n, c);
-
+        Console.WriteLine(ways);
     }
 }
