@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChangeProblem", "CoinCh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPEqual", "DPEqual\DPEqual.csproj", "{39C8F7FC-93F9-4062-A398-86070ADF17E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumAbsoluteDiffInArray", "MinimumAbsoluteDiffInArray\MinimumAbsoluteDiffInArray.csproj", "{BABF2236-3691-499D-ACC4-01183D5F77BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{39C8F7FC-93F9-4062-A398-86070ADF17E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39C8F7FC-93F9-4062-A398-86070ADF17E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39C8F7FC-93F9-4062-A398-86070ADF17E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BABF2236-3691-499D-ACC4-01183D5F77BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABF2236-3691-499D-ACC4-01183D5F77BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABF2236-3691-499D-ACC4-01183D5F77BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABF2236-3691-499D-ACC4-01183D5F77BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
