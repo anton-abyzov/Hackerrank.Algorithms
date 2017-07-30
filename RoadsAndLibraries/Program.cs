@@ -8,13 +8,15 @@ class Solution
     private static long _libraryCost;
     private static long _roadCost;
     private static int _n;
+    private Tuple<int, int> _tuples;
 
     static void Main(String[] args)
     {
-        int q = Convert.ToInt32(Console.ReadLine());
+        var fileStream = new StreamReader("seed_data.txt");
+        int q = Convert.ToInt32(fileStream.ReadLine());
         for (int a0 = 0; a0 < q; a0++)
         {
-            string[] tokens_n = Console.ReadLine().Split(' ');
+            string[] tokens_n = fileStream.ReadLine().Split(' ');
             _n = Convert.ToInt32(tokens_n[0]);
             int m = Convert.ToInt32(tokens_n[1]);
             _libraryCost = Convert.ToInt64(tokens_n[2]);
@@ -26,17 +28,48 @@ class Solution
             }
             for (int a1 = 0; a1 < m; a1++)
             {
-                string[] tokens_city_1 = Console.ReadLine().Split(' ');
+                string[] tokens_city_1 = fileStream.ReadLine().Split(' ');
                 int city_1 = Convert.ToInt32(tokens_city_1[0]);
                 int city_2 = Convert.ToInt32(tokens_city_1[1]);
-                _graph.Nodes[city_1-1].Adjacents.Add(_graph.Nodes[city_2-1]);
-                _graph.Nodes[city_2-1].Adjacents.Add(_graph.Nodes[city_1-1]);
+                //if (_graph.Nodes[city_1 - 1].Adjacents.Contains(_graph.Nodes[city_2 - 1]))
+                //    _graph.Nodes[city_1 - 1].Adjacents[_graph.Nodes[city_2 - 1]]
+                _graph.Nodes[city_1 - 1].Adjacents.Add(_graph.Nodes[city_2 - 1]);
+                _graph.Nodes[city_2 - 1].Adjacents.Add(_graph.Nodes[city_1 - 1]);
             }
             var result = Solve();
             Console.WriteLine(result);
         }
-        
+
     }
+
+    //static void Main(String[] args)
+    //{
+    //    int q = Convert.ToInt32(Console.ReadLine());
+    //    for (int a0 = 0; a0 < q; a0++)
+    //    {
+    //        string[] tokens_n = Console.ReadLine().Split(' ');
+    //        _n = Convert.ToInt32(tokens_n[0]);
+    //        int m = Convert.ToInt32(tokens_n[1]);
+    //        _libraryCost = Convert.ToInt64(tokens_n[2]);
+    //        _roadCost = Convert.ToInt64(tokens_n[3]);
+    //        _graph = new Graph();
+    //        for (int i = 0; i < _n; i++)
+    //        {
+    //            _graph.Nodes.Add(new Graph.Node());
+    //        }
+    //        for (int a1 = 0; a1 < m; a1++)
+    //        {
+    //            string[] tokens_city_1 = Console.ReadLine().Split(' ');
+    //            int city_1 = Convert.ToInt32(tokens_city_1[0]);
+    //            int city_2 = Convert.ToInt32(tokens_city_1[1]);
+    //            _graph.Nodes[city_1 - 1].Adjacents.Add(_graph.Nodes[city_2 - 1]);
+    //            _graph.Nodes[city_2 - 1].Adjacents.Add(_graph.Nodes[city_1 - 1]);
+    //        }
+    //        var result = Solve();
+    //        Console.WriteLine(result);
+    //    }
+
+    //}
 
     private static long Solve()
     {
