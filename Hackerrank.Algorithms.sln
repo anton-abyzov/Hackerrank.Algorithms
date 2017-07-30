@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompareTheTriplets", "CompareTheTriplets\CompareTheTriplets.csproj", "{0A1E4C5E-CCBA-4B06-B4B1-E9EB4C53BEC2}"
 EndProject
@@ -44,6 +44,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadsAndLibraries", "RoadsAndLibraries\RoadsAndLibraries.csproj", "{702E85C1-66C2-445A-B967-4AEA1FCC7C88}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChangeProblem", "CoinChangeProblem\CoinChangeProblem.csproj", "{1AB3061F-AADA-4187-A9A8-BA534AC0CA08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPEqual", "DPEqual\DPEqual.csproj", "{39C8F7FC-93F9-4062-A398-86070ADF17E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{1AB3061F-AADA-4187-A9A8-BA534AC0CA08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AB3061F-AADA-4187-A9A8-BA534AC0CA08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AB3061F-AADA-4187-A9A8-BA534AC0CA08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39C8F7FC-93F9-4062-A398-86070ADF17E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C8F7FC-93F9-4062-A398-86070ADF17E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C8F7FC-93F9-4062-A398-86070ADF17E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C8F7FC-93F9-4062-A398-86070ADF17E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
