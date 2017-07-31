@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LonelyInteger", "LonelyInte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximizingXor", "MaximizingXor\MaximizingXor.csproj", "{EA075BB7-AB9B-4CC8-BCC8-A0C1E8BB7E6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfStones", "GameOfStones\GameOfStones.csproj", "{76E44FC8-D0A9-474F-AC4F-D1F7E43C5A9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{EA075BB7-AB9B-4CC8-BCC8-A0C1E8BB7E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA075BB7-AB9B-4CC8-BCC8-A0C1E8BB7E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA075BB7-AB9B-4CC8-BCC8-A0C1E8BB7E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76E44FC8-D0A9-474F-AC4F-D1F7E43C5A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E44FC8-D0A9-474F-AC4F-D1F7E43C5A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E44FC8-D0A9-474F-AC4F-D1F7E43C5A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E44FC8-D0A9-474F-AC4F-D1F7E43C5A9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
