@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarksCakewalk", "MarksCakew
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerlandRadioTransmitters", "HackerlandRadioTransmitters\HackerlandRadioTransmitters.csproj", "{071D8D8B-E622-4500-A441-F84B14623BDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LonelyInteger", "LonelyInteger\LonelyInteger.csproj", "{F22D9D52-90F0-4FA7-BDBB-B5C349631E93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{071D8D8B-E622-4500-A441-F84B14623BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{071D8D8B-E622-4500-A441-F84B14623BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{071D8D8B-E622-4500-A441-F84B14623BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F22D9D52-90F0-4FA7-BDBB-B5C349631E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22D9D52-90F0-4FA7-BDBB-B5C349631E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22D9D52-90F0-4FA7-BDBB-B5C349631E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22D9D52-90F0-4FA7-BDBB-B5C349631E93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
