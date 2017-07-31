@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumAbsoluteDiffInArray"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarksCakewalk", "MarksCakewalk\MarksCakewalk.csproj", "{EB237E49-98DB-4F43-A565-62187505F8B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerlandRadioTransmitters", "HackerlandRadioTransmitters\HackerlandRadioTransmitters.csproj", "{071D8D8B-E622-4500-A441-F84B14623BDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{EB237E49-98DB-4F43-A565-62187505F8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB237E49-98DB-4F43-A565-62187505F8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB237E49-98DB-4F43-A565-62187505F8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{071D8D8B-E622-4500-A441-F84B14623BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071D8D8B-E622-4500-A441-F84B14623BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071D8D8B-E622-4500-A441-F84B14623BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071D8D8B-E622-4500-A441-F84B14623BDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
