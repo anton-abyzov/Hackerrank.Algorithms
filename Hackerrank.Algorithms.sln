@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerlandRadioTransmitters
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LonelyInteger", "LonelyInteger\LonelyInteger.csproj", "{F22D9D52-90F0-4FA7-BDBB-B5C349631E93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximizingXor", "MaximizingXor\MaximizingXor.csproj", "{EA075BB7-AB9B-4CC8-BCC8-A0C1E8BB7E6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{F22D9D52-90F0-4FA7-BDBB-B5C349631E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F22D9D52-90F0-4FA7-BDBB-B5C349631E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F22D9D52-90F0-4FA7-BDBB-B5C349631E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA075BB7-AB9B-4CC8-BCC8-A0C1E8BB7E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA075BB7-AB9B-4CC8-BCC8-A0C1E8BB7E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA075BB7-AB9B-4CC8-BCC8-A0C1E8BB7E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA075BB7-AB9B-4CC8-BCC8-A0C1E8BB7E6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
