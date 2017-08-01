@@ -30,6 +30,5 @@ class Solution
 
         res = maxXor(_l, _r);
         Console.WriteLine(res);
-
     }
 }
