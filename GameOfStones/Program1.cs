@@ -11,9 +11,15 @@ class Solution
         {
             testCases[i] = Convert.ToInt32(Console.ReadLine());
             var testCase = testCases[i];
-            var memory = new string[101];
-            var winner = FindWinner(testCase, memory);
-            Console.WriteLine(winner);
+            if (testCase % 7 == 0 || testCase % 7 == 1)
+                Console.WriteLine("Second");
+            else
+            {
+                Console.WriteLine("First");
+            }
+            //var memory = new string[101];
+            //var winner = FindWinner(testCase, memory);
+            //Console.WriteLine(winner);
         }
     }
 
