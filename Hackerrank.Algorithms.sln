@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfStones", "GameOfStone
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpingOnClouds", "JumpingOnClouds\JumpingOnClouds.csproj", "{7B10EFAB-8FB2-47CA-AAB1-B93AA606CDFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CavityMap", "CavityMap\CavityMap.csproj", "{B73B97B5-5247-4255-9B4B-9C7E5898F6DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{7B10EFAB-8FB2-47CA-AAB1-B93AA606CDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B10EFAB-8FB2-47CA-AAB1-B93AA606CDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B10EFAB-8FB2-47CA-AAB1-B93AA606CDFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B73B97B5-5247-4255-9B4B-9C7E5898F6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73B97B5-5247-4255-9B4B-9C7E5898F6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73B97B5-5247-4255-9B4B-9C7E5898F6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73B97B5-5247-4255-9B4B-9C7E5898F6DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
