@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuicksortInPlace", "Quickso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheMedian", "FindTheMedian\FindTheMedian.csproj", "{DBD0F70C-82FB-4047-A5B4-385670E17D56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingSort", "CountingSort\CountingSort.csproj", "{911B9310-6918-4438-A06A-B9EF825B6D38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{DBD0F70C-82FB-4047-A5B4-385670E17D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBD0F70C-82FB-4047-A5B4-385670E17D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBD0F70C-82FB-4047-A5B4-385670E17D56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911B9310-6918-4438-A06A-B9EF825B6D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911B9310-6918-4438-A06A-B9EF825B6D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911B9310-6918-4438-A06A-B9EF825B6D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911B9310-6918-4438-A06A-B9EF825B6D38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
