@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingSort2", "CountingSo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullCountingSort", "FullCountingSort\FullCountingSort.csproj", "{D842975B-6828-4FA1-891D-110C480C9683}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClosestNumbers", "ClosestNumbers\ClosestNumbers.csproj", "{7EA0C7BB-F3EE-4268-87DE-975EED20D701}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -249,6 +251,10 @@ Global
 		{D842975B-6828-4FA1-891D-110C480C9683}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D842975B-6828-4FA1-891D-110C480C9683}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D842975B-6828-4FA1-891D-110C480C9683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EA0C7BB-F3EE-4268-87DE-975EED20D701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA0C7BB-F3EE-4268-87DE-975EED20D701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA0C7BB-F3EE-4268-87DE-975EED20D701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA0C7BB-F3EE-4268-87DE-975EED20D701}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
