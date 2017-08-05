@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePowerSum", "ThePowerSum\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSortPart1", "InsertionSortPart1\InsertionSortPart1.csproj", "{6A416FD4-9EBE-4710-943B-6C5D9D15AD92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSortPart2", "InsertionSortPart2\InsertionSortPart2.csproj", "{71D1E922-FA6A-4A37-814F-99119F4C72C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -309,6 +311,10 @@ Global
 		{6A416FD4-9EBE-4710-943B-6C5D9D15AD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A416FD4-9EBE-4710-943B-6C5D9D15AD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A416FD4-9EBE-4710-943B-6C5D9D15AD92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71D1E922-FA6A-4A37-814F-99119F4C72C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D1E922-FA6A-4A37-814F-99119F4C72C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D1E922-FA6A-4A37-814F-99119F4C72C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D1E922-FA6A-4A37-814F-99119F4C72C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
