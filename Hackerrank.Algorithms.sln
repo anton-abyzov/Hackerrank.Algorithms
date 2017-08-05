@@ -97,6 +97,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLane", "ServiceLane\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerBreakers", "TowerBreakers\TowerBreakers.csproj", "{9605EF6C-06A9-4AA9-9361-A05E0CE9366E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessboardGame", "ChessboardGame\ChessboardGame.csproj", "{89724F57-E65A-4B01-9EFE-CD4F4E345F4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +293,10 @@ Global
 		{9605EF6C-06A9-4AA9-9361-A05E0CE9366E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9605EF6C-06A9-4AA9-9361-A05E0CE9366E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9605EF6C-06A9-4AA9-9361-A05E0CE9366E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89724F57-E65A-4B01-9EFE-CD4F4E345F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89724F57-E65A-4B01-9EFE-CD4F4E345F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89724F57-E65A-4B01-9EFE-CD4F4E345F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89724F57-E65A-4B01-9EFE-CD4F4E345F4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
