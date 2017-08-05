@@ -109,6 +109,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeIndex", "Palindro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetweenTwoSets", "BetweenTwoSets\BetweenTwoSets.csproj", "{BCBD9803-1549-4838-8636-7A208B277E91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoCharacters", "TwoCharacters\TwoCharacters.csproj", "{A828BA36-8C90-4C61-BC77-0B058258B706}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -327,6 +329,10 @@ Global
 		{BCBD9803-1549-4838-8636-7A208B277E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCBD9803-1549-4838-8636-7A208B277E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCBD9803-1549-4838-8636-7A208B277E91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A828BA36-8C90-4C61-BC77-0B058258B706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A828BA36-8C90-4C61-BC77-0B058258B706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A828BA36-8C90-4C61-BC77-0B058258B706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A828BA36-8C90-4C61-BC77-0B058258B706}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
