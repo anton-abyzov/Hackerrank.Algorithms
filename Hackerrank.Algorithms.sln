@@ -105,6 +105,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSortPart1", "Inser
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSortPart2", "InsertionSortPart2\InsertionSortPart2.csproj", "{71D1E922-FA6A-4A37-814F-99119F4C72C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeIndex", "PalindromeIndex\PalindromeIndex.csproj", "{05467226-6431-4B46-97F5-3297EA93416F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetweenTwoSets", "BetweenTwoSets\BetweenTwoSets.csproj", "{BCBD9803-1549-4838-8636-7A208B277E91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +319,14 @@ Global
 		{71D1E922-FA6A-4A37-814F-99119F4C72C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71D1E922-FA6A-4A37-814F-99119F4C72C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71D1E922-FA6A-4A37-814F-99119F4C72C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05467226-6431-4B46-97F5-3297EA93416F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05467226-6431-4B46-97F5-3297EA93416F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05467226-6431-4B46-97F5-3297EA93416F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05467226-6431-4B46-97F5-3297EA93416F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCBD9803-1549-4838-8636-7A208B277E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCBD9803-1549-4838-8636-7A208B277E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCBD9803-1549-4838-8636-7A208B277E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCBD9803-1549-4838-8636-7A208B277E91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
