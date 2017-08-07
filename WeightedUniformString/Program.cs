@@ -37,7 +37,6 @@ class Solution
                 seq = firstMatch.Value;
                 var firstMatchLength = firstMatch.Value.Length;
                 i += firstMatchLength - 1;
-
             }
             else
             {
