@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.IO;
 using System.Linq;
+using System.Text.RegularExpressions;
+
 class Solution
 {
 
@@ -26,21 +28,26 @@ class Solution
         string seq = "";
         do
         {
-            var weight = 0;
+            var oneCharWeight = 0;
 
             if (input[i] != seq.Distinct().FirstOrDefault())
             {
-                seq = input[i].ToString();
+                var firstCharOfSeq = input[i].ToString();
+                var firstMatch = Regex.Match(input.Substring(i), firstCharOfSeq + "+");
+                seq = firstMatch.Value;
+                var firstMatchLength = firstMatch.Value.Length;
+                i += firstMatchLength - 1;
+
             }
             else
             {
                 seq += input[i];
             }
-            foreach (var ch in seq)
+            for (int j = 0; j < seq.Length; j++)
             {
-                weight += ch - 'a' + 1;
+                oneCharWeight = seq[j] - 'a' + 1;
+                weightedArr.Add(oneCharWeight * (j + 1));
             }
-            weightedArr.Add(weight);
         } while (++i < input.Length);
         return weightedArr;
     }
